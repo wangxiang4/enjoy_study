@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.example</groupId>
+  <artifactId>enjoy_multi_thread</artifactId>
+  <version>1.0</version>
+  <name>enjoy_multi_thread</name>
+  <description>享受学习之并发编程</description>
+
+
+  <dependencies>
+
+  </dependencies>
+
+</project>
